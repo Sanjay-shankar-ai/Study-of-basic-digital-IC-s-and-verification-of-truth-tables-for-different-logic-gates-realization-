@@ -89,6 +89,8 @@ endmodule
 ![logic](https://github.com/abdulwasih2003/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/raw/main/1.png)
 ### 2.RTL realization:
 ![logic](https://github.com/abdulwasih2003/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/raw/main/2.png)
+### 3. Wave Form
+![WhatsApp Image 2023-04-12 at 2 18 54 PM](https://user-images.githubusercontent.com/94231938/231405594-93e9c3a5-553d-4c99-8671-10feac940618.jpeg)
 
 
 Result:
